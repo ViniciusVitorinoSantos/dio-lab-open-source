@@ -79,6 +79,32 @@ python script.py
 ```
 O script irá buscar todos os PRs abertos no repositório e adicionar a label "run dio workflow" caso ela não exista.
 
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
+### Explicação do `README.md`
+
+- **Badges**: No início do arquivo, coloquei badges de versão do Python e de licença, para deixar o projeto visualmente mais atrativo e informativo.
+  
+- **Funcionalidades**: Uma descrição rápida das funcionalidades do projeto.
+
+- **Pré-requisitos**: Explicação sobre a versão do Python necessária e como configurar o token do GitHub.
+
+- **Instalação**: Passos claros para configurar o ambiente de desenvolvimento e instalar as dependências necessárias.
+
+- **Como Usar**: Passos detalhados para executar o script depois de configurar o ambiente.
+
+- **Contribuindo**: Instruções sobre como contribuir para o projeto com um guia de fork e pull request.
+
+- **Licença**: Informação sobre a licença do projeto (MIT).
+
+### Dependências (`requirements.txt`)
+
+Certifique-se de ter um arquivo `requirements.txt` com a dependência necessária:
+
+
+
 
 
 
